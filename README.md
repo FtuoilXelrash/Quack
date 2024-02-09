@@ -34,7 +34,7 @@ last release 10/01/2008 Version 2.9.0
 # Prerequisites
 [Decal](http://www.decaldev.com/) 
 
-[Asheron's Call](http://emulator.ac/)
+[ACEmulator](http://emulator.ac/)
 
 
 
