@@ -13,13 +13,10 @@ A [Decal](http://www.decaldev.com/) utility plugin for use with private Asheron'
 
 # Features include:
 
--Anti Client idle
-
--Logout on death
-
--Play sound on death
-
--Squelch red client status messages
+* Anti Client idle
+* Logout on death
+* Play sound on death
+* Squelch red client status messages
 
 
 
@@ -39,6 +36,11 @@ last release 10/01/2008 Version 2.9.0
 [ACEmulator](http://emulator.ac/)
 
 
+# Here are some places to visit:
+* one
+* two
+
+  
 
 # Contact
 - Creator
