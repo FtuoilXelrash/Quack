@@ -1,2 +1,2 @@
 # Quack
-Quack Decal Plugin Asheron's Call
+A Decal utility plugin for use with private Asheron's Call emulation servers
