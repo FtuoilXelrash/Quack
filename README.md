@@ -22,25 +22,16 @@ A [Decal](http://www.decaldev.com/) utility plugin for use with private Asheron'
 
 # Installing
 
-See the [Releases](https://github.com/FtuoilXelrash/Releases) for the latest release. 
-
-Install as you normally would for any Decal plugin distributed as a DLL.
-
-last release 10/01/2008 Version 2.9.0
+* See the [Releases](https://github.com/FtuoilXelrash/Releases) for the latest release. 
+* Install as you normally would for any Decal plugin distributed as a DLL.
+* Final Release 10/01/2008 Version 2.9.0
 
 
 
 # Prerequisites
-[Decal](http://www.decaldev.com/) 
+* [Decal](http://www.decaldev.com/) 
+* [ACEmulator](http://emulator.ac/)
 
-[ACEmulator](http://emulator.ac/)
-
-
-# Here are some places to visit:
-* one
-* two
-
-  
 
 # Contact
 - Creator
